@@ -8,5 +8,6 @@
 #ifndef Defaults_h
 #define Defaults_h
 
+#define test 1
 
 #endif /* Defaults_h */
