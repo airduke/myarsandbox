@@ -8,6 +8,9 @@
 
 /* Begin PBXFileReference section */
 		776401B8208D82DF0043C343 /* Defaults.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Defaults.h; sourceTree = "<group>"; };
+		776401B9208D8ECA0043C343 /* TODO.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TODO.h; sourceTree = "<group>"; };
+		776401BA208D91470043C343 /* sandbox.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = sandbox.h; sourceTree = "<group>"; };
+		776401BB208E26620043C343 /* runsandbox.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = runsandbox.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -15,6 +18,9 @@
 			isa = PBXGroup;
 			children = (
 				776401B8208D82DF0043C343 /* Defaults.h */,
+				776401B9208D8ECA0043C343 /* TODO.h */,
+				776401BB208E26620043C343 /* runsandbox.cpp */,
+				776401BA208D91470043C343 /* sandbox.h */,
 			);
 			sourceTree = "<group>";
 		};
